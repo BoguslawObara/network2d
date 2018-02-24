@@ -7,7 +7,7 @@
 
 Required packages:
 - [vesselness2d](../../../vesselness2d)
-- [vesselness2d](../../../vesselness_pct2d)
+- [vesselness_pct2d](../../../vesselness_pct2d)
 
 If you find this code useful in your research and development, please consider citing:
 
