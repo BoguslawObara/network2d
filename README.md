@@ -3,7 +3,7 @@
 
 | INPUT | OUTPUT | OUTPUT | OUTPUT |
 | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network.png" width="200"> | <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network_label.png" width="200"> | <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network_thick.png" width="200"> | <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network_graph.png" width="200"> |
+| <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network.png" width="200"> | <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network_label.png" width="200"> | <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network_thick.png" width="200"> | <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network_graph.png" width="200"> | 
 
 
 Required packages:
