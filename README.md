@@ -1,10 +1,10 @@
 # network2d
 2d curvilinear network extraction and analysis<br/>
 
-| INPUT  | OUTPUT | OUTPUT | OUTPUT |
+| INPUT | OUTPUT | OUTPUT | OUTPUT |
 | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network.png" width="200"> | <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network_label.png" width="200"> |
-<img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network_thick.png" width="200"> | <img src="https://github.com/BoguslawObara/network2d/blob/master/im/fungal_network_graph.png" width="200"> |
+| A | B | C | D |
+
 
 Required packages:
 - [vesselness2d](../../../vesselness2d)
