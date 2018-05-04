@@ -2,7 +2,7 @@
 clc; clear all; close all;
 
 %% path
-addpath('./libs');
+addpath('./lib');
 
 %% load image
 filename = './im/fungal_network.png';

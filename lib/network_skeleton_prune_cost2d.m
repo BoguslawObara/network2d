@@ -52,13 +52,15 @@ end
 
 %% area
 if a==-1
-    %% Filter
+    
+    %% filter
     imsk = bwmorph(imsk,'skel',Inf);
     imsk = bwmorph(imsk,'thin',Inf);        
     imsk = bwmorph(imsk,'skel',Inf);
     imsk = bwmorph(imsk,'fill');
     imsk = bwmorph(imsk,'skel',Inf);
-    %% Max area
+    
+    %% max area
     imlabel = bwlabel(imsk,8);
     s  = regionprops(imlabel,'Area','PixelIdxList');
     area = cat(1,s.Area);    

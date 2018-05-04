@@ -2,7 +2,7 @@
 clc; clear all; close all;
 
 %% path
-addpath('./libs');
+addpath('./lib');
 addpath('../vesselness2d/lib');
 addpath('../vesselness_pct2d/lib');
 

@@ -2,7 +2,7 @@
 clc; clear all; close all;
 
 %% path
-addpath('./libs');
+addpath('./lib');
 
 %% load image
 im = imread('./im/fungal_network_food.png');
