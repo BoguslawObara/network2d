@@ -20,3 +20,13 @@ If you find this code useful in your research and development, please consider c
         pages       = {2374-2381},
         year        = {2012}
     }
+    
+    @article{Sawant2017,
+        author      = {Mugdha Sawant and Nicole Schwarz and Reinhard Windoffer and Thomas Magin and Jan Krieger and Norbert Mucke and Boguslaw Obara and Vera Jankowski and Joachim Jankowski and Verena Wally and Thomas Lettner and Julia Reichelt and Rudolf E. Leube1},
+        title       = {Threonine 150 phosphorylation of keratin 5 is linked to {EBS} and regulates filament assembly, cell cycle and oxidative stress response},
+        journal     = {Journal of Investigative Dermatology},
+        volume      = {138},
+        number      = {3},
+        pages       = {627-636},
+        year        = {2017}
+    }
